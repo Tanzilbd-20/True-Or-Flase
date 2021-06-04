@@ -1,0 +1,57 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">True or False</string>
+    <string name="true_btn_text">True</string>
+    <string name="false_btn_text">False</string>
+    <string name="prev_btn_text"><![CDATA[<Prev]]></string>
+    <string name="next_btn_text"><![CDATA[Next>]]></string>
+    <string name="logo_image">Logo</string>
+    <string name="textview_holder" />
+
+
+    <string name="question1">Marrakesh is the capital of Morocco</string>
+
+    <string name="correct_answer">That\s Correct</string>
+    <string name="wrong_answer">That\'s Incorrect</string>
+
+    <string name="question2">Idina Menzel sings \'let it go\' 20 times in \'Let It Go\' from Frozen
+</string>
+
+    <string name="question3">Waterloo has the greatest number of tube platforms in London</string>
+    <string name="question4">M and M stands for Mars and Moordale
+</string>
+    <string name="question5">Gin is typically included in a Long Island Iced Tea</string>
+    <string name="question6">The unicorn is the national animal of Scotland
+</string>
+    <string name="question7">There are two parts of the body that can\'t heal themselves
+</string>
+    <string name="question8">Howard Donald is the oldest member of Take That
+</string>
+    <string name="question9">The Great Wall of China is longer than the distance between London and Beijing
+</string>
+    <string name="question10">There are 219 episodes of Friends
+</string>
+    <string name="question11">\'A\' is the most common letter used in the English language
+</string>
+    <string name="question12">A lion\'s roar can be heard up to eight kilometres away
+</string>
+    <string name="question13">In Harry Potter, Draco Malfoy has no siblings
+</string>
+    <string name="question14">Louis Walsh is older than Simon Cowell
+</string>
+    <string name="question15">Monaco is the smallest country in the world
+</string>
+    <string name="question16">\'What Do You Mean\' was Justin Bieber\'s first UK number one single
+</string>
+    <string name="question17">The river Seine in Paris is longer than the river Thames in London
+</string>
+    <string name="question18" tools:ignore="Typos">A cara cara navel is a type of orange
+</string>
+    <string name="question19">There are five different blood groups
+</string>
+    <string name="question20">Cinderella was the first Disney princess
+</string>
+
+    <string name="first_question_text">"This is the first Question"</string>
+    <string name="last_question_text">"It was the last Question</string>
+
+</resources>
